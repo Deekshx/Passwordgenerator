@@ -10,3 +10,4 @@ To get the output follow these steps:
        python3 password_generator.py <length> [options]
 
    
+![screen 1](https://github.com/user-attachments/assets/e8ddb25e-0566-4a89-a4c8-1d52eed642ae)
